@@ -75,4 +75,4 @@ namespace operator_overloading
  ![equal](./ot1.PNG)
 
 ## Result:
-Thus the C# program to find the volume of a box using operator overloading is implemented successfully.
+Thus the C# program to check whether objects are equal using operator overloadin is implemented successfully.
